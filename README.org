@@ -1,0 +1,6 @@
+* helm-template-mode
+A major mode for working with helm template files.
+
+This package is supposed to be a small but nice package for setting up working with helm files and make integration with [[https://github.com/mrjosh/helm-ls/tree/master][helm-ls]] easier.
+** TODOs
+- Integrate [[https://github.com/mrjosh/helm-ls/tree/master][helm-ls]]
